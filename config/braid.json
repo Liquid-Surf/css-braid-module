@@ -1,0 +1,10 @@
+{
+  "@context": "https://linkedsoftwaredependencies.org/bundles/npm/braid-module/^7.0.0/components/context.jsonld",
+  "@graph": [
+    {
+      "comment": "A complete Braid instance",
+      "@type": "Braid",
+      "@id": "urn:my-braid:core:Braid"
+    }
+  ]
+}
